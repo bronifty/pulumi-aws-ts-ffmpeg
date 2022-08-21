@@ -1,5 +1,8 @@
 # demo
 
+Blog Post https://dev.to/bronifty/pulumi-ffmpeg-automation-2o7o
+Youtube Video https://youtu.be/CYlaO4kDQQ8
+
 <img src="./ffmpeg.png">
 
 ```
